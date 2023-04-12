@@ -1,6 +1,6 @@
 # Bitcoin Research
 
-![](/.images/baner.png)
+![](.images/baner.png)
 
 ## ¡BIENVENIDO!
 
