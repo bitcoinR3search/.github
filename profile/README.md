@@ -1,6 +1,6 @@
 # ¡BIENVENIDO a Bitcoin Research!
 
-![](.images/baner.png)
+![](../.github/profile/.images/baner.png)
 
 Este es el repositorio oficial del proyecto (bajo licencia MIT) "Bitcoin Research".
 
